@@ -1,0 +1,1 @@
+git remote set-url origin https://yourusername@github.com/2nm-studio/docurachat.git

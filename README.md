@@ -28,8 +28,8 @@ An AI-powered document analysis and chat interface that enables contextual conve
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/document-chat-bot
-cd document-chat-bot
+git clone https://github.com/2nm-studio/docurachat
+cd docurachat
 ```
 
 2. Create and activate a virtual environment:
@@ -83,7 +83,7 @@ Key configuration options in `config.py`:
 ## 🛠️ Project Structure
 
 ```
-document-chat-bot/
+docurachat/
 ├── main.py              # Main Streamlit application
 ├── chat_manager.py      # Chat session management
 ├── embedding_manager.py # Document embedding and retrieval
