@@ -1,0 +1,30 @@
+# Database Tools
+winget install dbeaver.dbeaver
+winget install TablePlus.TablePlus
+
+# API Development
+winget install Postman.Postman
+winget install Insomnia.Insomnia
+
+# Monitoring & Performance
+winget install grafana.grafana
+winget install prometheus.prometheus
+
+# Development Utils
+winget install WinMerge.WinMerge
+winget install File-New-Project.EarTrumpet
+winget install voidtools.Everything
+winget install ShareX.ShareX
+
+# Git Tools
+winget install Git.GitKraken
+winget install Axosoft.GitKraken
+winget install Sourcetree
+
+# Container Management
+winget install Rancher.Desktop  # Alternative to Docker Desktop
+winget install portainer.portainer
+
+# ML/AI Specific
+winget install Anaconda.Anaconda3
+pip install streamlit gradio fastapi uvicorn

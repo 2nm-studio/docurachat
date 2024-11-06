@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community 
+langchain-openai
+langchain-huggingface
+faiss-cpu
+torch
+sentence-transformers
+beautifulsoup4
+psutil
+gputil
+ollama
